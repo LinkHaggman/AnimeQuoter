@@ -1,4 +1,4 @@
-# demo
+# AnimeQuoter
 
 ## Project setup
 ```
